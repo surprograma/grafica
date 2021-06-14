@@ -11,4 +11,6 @@ Esta obra fue elaborada por [Federico Aloi](https://github.com/faloi) y publicad
 
 ### Créditos
 
-:paintbrush: Plantillas diseñadas por Alejandro Rocha Cruz.
+:paintbrush: Plantillas diseñadas por [Alejandro Rocha Cruz](https://twitter.com/diablodromo).
+
+:camera_flash: Imágenes descargadas de [Unsplash](https://unsplash.com/).
