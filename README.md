@@ -1,5 +1,7 @@
 # El Sur también programa - piezas gráficas
 
+![banner](./banner-youtube.png)
+
 ## Licencia
   
 Esta obra fue elaborada por [Federico Aloi](https://github.com/faloi) y publicada bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
